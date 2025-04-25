@@ -1,0 +1,12 @@
+
+Inventory Summary:
+-----------------
+Total inventory entries: 1440
+Unique product items: 40
+Godspeed product variants: 720
+ADG product variants: 720
+Quality options: Standard, Premium, Deluxe
+Size options: S, M, L, XL
+Godspeed colors: Black, White, Pink, Yellow, Blue, Green
+ADG colors: Black, White, Grey, Navy, Beige
+Price range: $26.1 - $63.47
